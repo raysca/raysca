@@ -1,0 +1,19 @@
+baseURL: https://raysca.github.io/
+languageCode: 'en-us'
+title: 'Rasyca'
+theme: 'PaperMod'
+
+params: 
+    homeInfoParams:
+        Title: 'Thinking Machine'
+        Content: 'I am a Full Stack Developer, I love to learn new things and share my knowledge with others. On this blog I share my experiences and knowledge about programming, web development and other things that I find interesting.'
+    socialIcons:
+        - name: github
+          url: https://github.com/raysca
+        - name: twitter
+          url: https://twitter.com/sayjava
+    cover:
+        responsiveImages: false
+    ShowShareButtons: true
+    ShowReadingTime: true
+
